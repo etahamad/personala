@@ -15,6 +15,7 @@ export const getProjects = function (): ProjectItemProps[] {
         ],
       },
       description: [
+        'This is a project description.',
         'Managing a complete website project for HEKORS Community; Created using React, NextJS, TailwindCSS, RadixUI, Typescript.',
         'Building complete database using Strapi CMS',
       ],
@@ -43,6 +44,7 @@ export const getProjects = function (): ProjectItemProps[] {
         ],
       },
       description: [
+        'This is a project description.',
         'Re-created github.com/home website using React and deployed it using GitHub Pages',
         'Before implementing, I have designed the website sections in Figma',
       ],
@@ -62,6 +64,7 @@ export const getProjects = function (): ProjectItemProps[] {
         ],
       },
       description: [
+      'This is a project description.',
         'The app has to make its users feel connected, synced, and cared, without any distractions by checking chat notifications. All by iOS & Android Widgets 🍕',
         "This is design-first project, right now I am working on it's design system",
       ],
@@ -70,13 +73,13 @@ export const getProjects = function (): ProjectItemProps[] {
       status: 'Ongoing',
     },
     {
-      projectTitle: 'PrepMeUp',
+      projectTitle: '',
       projectData: {
-        liveURL: 'https://prepmeup.vercel.app/',
+        
         relatedLinks: [
           {
             label: 'GitHub',
-            link: 'https://github.com/yashsehgal/prepmeup',
+            link: '',
           },
         ],
       },
