@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Section from '../layout/Section';
-import Button from '../ui/Button';
+import Header from './Header';
 import LinkText from '../ui/LinkText';
 import Callout from './Callout';
 import Header from './Header';

@@ -5,7 +5,8 @@ import Header from '@/components/main/Header';
 import MetaHead from '@/components/seo/MetaHead';
 import Button from '@/components/ui/Button';
 import { getCrafts } from '@/lib/crafts';
-import Link from 'next/link';
+import { getCrafts } from '@/lib/crafts';
+import { getCrafts } from '@/lib/crafts';
 import React from 'react';
 
 type CraftLinkType = 'internal' | 'external';
