@@ -1,4 +1,4 @@
-import Section from '@/components/layout/Section';
+import Section from '@/components/main/Section';
 import ViewContainer from '@/components/layout/ViewContainer';
 import Header from '@/components/main/Header';
 import MetaHead from '@/components/seo/MetaHead';
